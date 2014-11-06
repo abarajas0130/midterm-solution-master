@@ -58,17 +58,17 @@ nav a:active {
 }
 
 /* on hover show home.png */
-#home a:hover {
+li:nth-child(1) a:hover {
 	background: url("../img/icons/home.png") no-repeat left center;
 }
 
 /* on hover show home.png */
-#super a:hover {
+li:nth-child(2) a:hover {
 	background: url("../img/icons/super.png") no-repeat left center;
 }
 
 /* on hover show home.png */
-#html5 a:hover {
+li:nth-child(3) a:hover {
 	background: url("../img/icons/html5.png") no-repeat left center;
 }
 
